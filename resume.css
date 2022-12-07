@@ -1,0 +1,78 @@
+.name
+{
+    color: black;
+}
+.name{
+    font-family: 'Playfair Display', serif;
+
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+.head{
+    font-size:20px; 
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    
+}
+.i1{
+    font-size:20px; 
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    
+
+}
+
+.in{
+    background-color:rgb(224, 219, 219) ;
+}
+.out{
+   
+    background-color: white;
+    box-shadow: 5px 5px 5px;
+}
+.icon1{
+    width: 60px;
+    height: 60px;
+}
+.icon2{
+    width: 60px;
+    height: 60px;
+}
+.icon3{
+    width: 60px;
+    height: 60px;
+}
+.edu{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+.input {
+    height: 30px;
+    width: 400px;
+}
+/* .btn {
+    color: #fff;
+    background-color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    vertical-align: middle;
+    width: 400px;
+    height: 38px;
+    margin: 7px 3px;
+    border-radius: 0px;
+} */
+
+#preeti{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    height: 35px;
+    width: 400px;
+    border-radius: 5px;
+    margin: 7px 3px;
+border: 1px solid black;
+
+}
+#preeti:hover{
+    background-color: white;
+    color: black;
+}
